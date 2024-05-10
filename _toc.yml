@@ -4,9 +4,10 @@
 format: jb-book
 root: index
 chapters:
-  - file: book/markdown
-  - file: book/notebooks
-  - file: book/bibliography
+  - file: book/getting-started-with-ensemble-learning
+  - file: book/bagging
+  - file: book/random-forest
+  - file: book/feature-importance
 
 # Or you organize the TOC by parts
 
