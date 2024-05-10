@@ -7,7 +7,7 @@ parts:
 - caption: Ensemble_learning
   numbered: true
   chapters:
-  - file: Ensemble_learning/getting-started-with-ensemble-learning
-  - file: Ensemble_learning/bagging
-  - file: Ensemble_learning/random-forest
-  - file: Ensemble_learning/feature-importance
+  - file: book/getting-started-with-ensemble-learning
+  - file: book/bagging
+  - file: book/random-forest
+  - file: book/feature-importance
