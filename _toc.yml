@@ -2,7 +2,7 @@
 # Learn more at https://jupyterbook.org/customize/toc.html
 
 format: jb-book
-root: index
+root: getting-started-with-ensemble-learning
 chapters:
   - file: book/getting-started-with-ensemble-learning
   - file: book/bagging
