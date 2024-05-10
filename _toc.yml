@@ -3,10 +3,7 @@
 
 format: jb-book
 root: index
-parts:
-- caption: Ensemble_learning
-  numbered: true
-  chapters:
+chapters:
   - file: book/getting-started-with-ensemble-learning
   - file: book/bagging
   - file: book/random-forest
