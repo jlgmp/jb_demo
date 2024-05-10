@@ -3,21 +3,11 @@
 
 format: jb-book
 root: index
-chapters:
-  - file: book/getting-started-with-ensemble-learning
-  - file: book/bagging
-  - file: book/random-forest
-  - file: book/feature-importance
-
-# Or you organize the TOC by parts
-
-# parts:
-#   - caption: Chapters
-#     numbered: true
-#     maxdepth: 2
-#     chapters:
-#       - file: book/markdown
-#       - file: book/notebooks
-#   - caption: Appendices
-#     chapters:
-#       - file: book/bibliography
+parts:
+- caption: Ensemble_learning
+  numbered: true
+  chapters:
+  - file: Ensemble_learning/getting-started-with-ensemble-learning
+  - file: Ensemble_learning/bagging
+  - file: Ensemble_learning/random-forest
+  - file: Ensemble_learning/feature-importance
